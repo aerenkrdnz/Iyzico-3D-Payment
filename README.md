@@ -20,4 +20,7 @@ Back end tarafı için .Net Front end tarafı için ise Angular teknolojileri ku
 - Back end tarafı ayağa kaldırıldıktan sonra front end tarafı localhost:4200 ile ayağa kaldırılabilir. 
 
 
+![Ekran Alıntısı2](https://github.com/aerenkrdnz/Iyzico3DPayment/assets/151842601/66cc3baf-1d3a-4d62-96a1-aa81bdd48c3f)
+![Ekran Alıntısı3](https://github.com/aerenkrdnz/Iyzico3DPayment/assets/151842601/892478bb-647a-430b-af72-43dbfb65da40)
+
 
