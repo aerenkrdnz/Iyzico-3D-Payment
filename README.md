@@ -1,6 +1,9 @@
-![enter image description here](https://miro.medium.com/max/750/1*zc1BKfAHkpvrZlHPbUvuYA.png)
-
-![enter image description here](https://miro.medium.com/v2/resize:fit:512/1*FKD2Uy_Q6r6AviZA2VD4RQ.png)
+<table>
+  <tr>
+    <td><img src="https://miro.medium.com/v2/resize:fit:512/format:webp/1*owH3LC7VnzpM8JV4RtY8oA.jpeg" alt="Image 1" style="width: 100%;"></td>
+    <td><img src="https://miro.medium.com/v2/resize:fit:512/1*FKD2Uy_Q6r6AviZA2VD4RQ.png" alt="Image 2" style="width: 100%;"></td>
+  </tr>
+</table>
 
 # Iyzico3DPayment
 Iyzico 3D ödeme yöntemi ile back end ve front end kısmı
